@@ -1,0 +1,190 @@
+html{
+    font-family: 'quicksand';
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+/*Header {*/
+.header_contenue_jk{
+    text-transform: uppercase;
+    text-align: center;
+    color: #111111;
+    font-weight: 200;
+    font-size: 2.5rem;
+}
+.header_blog{
+    text-align: center;
+    font-weight: 200;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+/*Header }*/
+
+/*nav {*/
+
+/*nav }*/
+
+/*Section {*/
+section {
+    float: left;
+    margin: 0 1.5%;
+    width: 63%;
+}
+.section_footer_com{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1rem;
+}
+#btn_poster{
+    letter-spacing: 2.5px;
+}
+.section_hr_jv{
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.section_hr_ccn{  
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.section_hr_msq{
+    text-transform: uppercase;
+    font-weight: 300;
+}
+.section_hr_tech{
+    text-transform: uppercase;
+    font-weight: 300;   
+}
+/*Section }*/
+
+/*Aside {*/
+aside {
+    float: right;
+    margin: 0 1.5%;
+    width: 30%;
+}      
+img.img_avatar{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.aside_about_p{
+    font-size: 14px;
+}
+p.aside_about_p{
+    font-weight: 400;
+}
+.aside_about_apps{
+    font-size: 16px;    
+    font-weight: 400;
+    width: 100%;
+    color: #fff;
+    padding: 0.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #111111;
+}
+.aside_rsociaux_fb{
+    font-size: 16px;
+    font-weight: 400;
+    width: 100%;
+    color: #fff;
+    padding: 0.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #111111;
+}
+img.facebook-round-color{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.facebook-round-color{
+    width: 15%;
+    margin-bottom: 0.5rem;
+}
+.aside_labels{
+    font-size: 16px;
+    font-weight: 400;
+    width: 100%;
+    color: #fff;
+    padding: 0.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #111111;  
+}
+.aside_lb_lien{
+    padding-bottom: 2.5rem;
+}
+.aside_lb_lien .label_lien1 a{
+    padding: 8px 10px;
+    margin: 0;
+    background: #fff;
+    color: #111111;
+    float: left;
+    font-size: 12px;
+    line-height: 100%;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #eee;
+}
+.aside_lb_lien .label_lien2 a{
+    padding: 8px 10px;
+    margin: 0 1rem;
+    background: #fff;
+    color: #111111;
+    float: left;
+    font-size: 12px;
+    line-height: 100%;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #eee;    
+}
+.aside_lb_lien .label_lien3 a{
+    padding: 8px 10px;
+    margin: 0;
+    background: #fff;
+    color: #111111;
+    float: left;
+    font-size: 12px;
+    line-height: 100%;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #eee;    
+}
+.aside_lb_lien .label_lien4 a{
+    padding: 8px 10px;
+    margin: 0;
+    margin-top: 0.5rem;
+    background: #fff;
+    color: #111111;
+    float: left;
+    font-size: 12px;
+    line-height: 100%;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #eee;    
+}
+/*Aside }*/
+
+/*Footer {*/
+footer{
+    clear: both;
+}
+.footer_main{
+    width: 100%;
+    color: #fff;
+    background-color: #111111;
+}
+.footer_cpy{
+    width: 100%;
+    margin-bottom: -1.05rem;
+}
+.footer_cpy_p{
+    font-weight: 200;
+    padding: 2.5rem;
+    text-align: center;
+}
+/*Footer }*/
